@@ -8,7 +8,7 @@ export default function Question01() {
     <>
       <h2>Question 01</h2>
       <Course course="Information Systems">
-        <Class class="Programming Fundamentals" course="Information Systems">
+        <Class class="Programming Fundamentals">
           <Student student="Alina" />
           <Student student="Ellyo" />
         </Class>
